@@ -33,8 +33,6 @@ Our next step would be to follow the instruction given on [Heroku Documentation]
 
 ## Directory Tree 
 ```
-├── static 
-│   ├── css
 ├── template
 │   ├── home.html
 ├── Procfile
