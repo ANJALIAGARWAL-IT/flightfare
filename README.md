@@ -10,7 +10,7 @@
 
 
 ## Demo
-Link: [https://flightfare.herokuapp.com/](https://flight-price-prediction-api.herokuapp.com/)
+[Link](https://flightfare.herokuapp.com/)
 
 [![](https://imgur.com/vmovNFH.png)](https://flight-price-prediction-api.herokuapp.com/)
 
