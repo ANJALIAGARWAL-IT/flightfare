@@ -40,7 +40,7 @@ Our next step would be to follow the instruction given on [Heroku Documentation]
 ├── Data_train.csv
 ├── Test_set.csv
 ├── app.py
-├── flight_price.ipynb
+├── flightfare.ipynb
 ├── flight_rf.pkl
 ├── requirements.txt
 ```
